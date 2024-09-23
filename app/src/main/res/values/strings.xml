@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">authentication</string>
+    <string name="headertxt">Login</string>
+    <string name="headertxtRegister">Register</string>
+    <string name="hintEmail">Enter email</string>
+    <string name="hintPsw">Enter password</string>
+    <string name="regTxt">Click to Register</string>
+    <string name="loginTxt">Click to Login</string>
+
+</resources>
